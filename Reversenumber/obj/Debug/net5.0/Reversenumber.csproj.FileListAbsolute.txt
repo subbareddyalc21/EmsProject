@@ -1,0 +1,16 @@
+E:\practicef\Reversenumber\Reversenumber\bin\Debug\net5.0\Reversenumber.exe
+E:\practicef\Reversenumber\Reversenumber\bin\Debug\net5.0\Reversenumber.deps.json
+E:\practicef\Reversenumber\Reversenumber\bin\Debug\net5.0\Reversenumber.runtimeconfig.json
+E:\practicef\Reversenumber\Reversenumber\bin\Debug\net5.0\Reversenumber.runtimeconfig.dev.json
+E:\practicef\Reversenumber\Reversenumber\bin\Debug\net5.0\Reversenumber.dll
+E:\practicef\Reversenumber\Reversenumber\bin\Debug\net5.0\ref\Reversenumber.dll
+E:\practicef\Reversenumber\Reversenumber\bin\Debug\net5.0\Reversenumber.pdb
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.csprojAssemblyReference.cache
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.AssemblyInfoInputs.cache
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.AssemblyInfo.cs
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.csproj.CoreCompileInputs.cache
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.dll
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\ref\Reversenumber.dll
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.pdb
+E:\practicef\Reversenumber\Reversenumber\obj\Debug\net5.0\Reversenumber.genruntimeconfig.cache
